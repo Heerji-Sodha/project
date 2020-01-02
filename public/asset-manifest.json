@@ -1,0 +1,21 @@
+{
+  "main.css": "./static/css/main.149c8776.chunk.css",
+  "main.js": "./static/js/main.829d6d2a.chunk.js",
+  "main.js.map": "./static/js/main.829d6d2a.chunk.js.map",
+  "static/css/1.86ce866b.chunk.css": "./static/css/1.86ce866b.chunk.css",
+  "static/js/1.3e556f1d.chunk.js": "./static/js/1.3e556f1d.chunk.js",
+  "static/js/1.3e556f1d.chunk.js.map": "./static/js/1.3e556f1d.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/mdb.css": "./static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/google-plus-social-logotype.png": "./static/media/google-plus-social-logotype.5af4666a.png",
+  "static/media/logo.png": "./static/media/logo.eda47910.png",
+  "static/media/shopr-logo-raw.svg": "./static/media/shopr-logo-raw.77a819ab.svg",
+  "static/media/all.min.css": "./static/media/fa-solid-900.7a5de9b0.svg",
+  "static/media/twitter-social-logotype.png": "./static/media/twitter-social-logotype.68dfe7c7.png",
+  "static/css/1.86ce866b.chunk.css.map": "./static/css/1.86ce866b.chunk.css.map",
+  "static/css/main.149c8776.chunk.css.map": "./static/css/main.149c8776.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.dcaf4301877a5ea25562e9da9b7cc5a7.js": "./precache-manifest.dcaf4301877a5ea25562e9da9b7cc5a7.js",
+  "service-worker.js": "./service-worker.js"
+}

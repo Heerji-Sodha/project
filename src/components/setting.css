@@ -1,0 +1,42 @@
+#paper{
+  
+        width: "80%";
+         margin-top: 0;
+        margin-right: 'auto';
+        margin-bottom: 0;
+        border-radius:'10px';
+        margin-left: 'auto';
+        background-color: '#f7f7f7';
+   
+}
+
+
+h3{font-family: 'Montserrat';
+     padding-top: '20px' ;
+
+}
+
+#UserName{
+     font-Family: 'Montserrat' ;
+}
+
+#div3{
+     margin-top: '30px';
+}
+
+#email{
+     margin-right: '230px';
+      cursor: 'pointer';
+      font-Family: 'Montserrat' ;
+      margin-Top: '100px';
+      border-Bottom: '1px solid' ;
+}
+
+#setting{
+
+   margin-right: '210px';
+    border-Bottom: '1px solid';
+     cursor: 'pointer';
+     font-Family: 'Montserrat' ;
+     
+}
